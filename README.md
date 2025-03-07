@@ -39,10 +39,8 @@ The main goal of this project is to provide a **user-friendly chat-based interfa
 
 ## How to Run  
 
-### **1️⃣ Install Dependencies**  
+1️⃣ Install Dependencies
 Run the following command to install the required packages:  
-
-```bash
 pip install -r requirements.txt
 
 2️⃣ Set Up the SQLite Database
